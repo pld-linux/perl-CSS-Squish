@@ -8,13 +8,13 @@
 Summary:	CSS::Squish - Compact many CSS files into one big file
 Summary(pl.UTF-8):	CSS::Squish - Compact many CSS files into one big file
 Name:		perl-CSS-Squish
-Version:	0.07
+Version:	0.08
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CSS/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d992129bf96368a504fe9c67b6d3e622
+# Source0-md5:	6924fdf59b09e006e5a97e45fce48046
 URL:		http://search.cpan.org/dist/CSS-Squish/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildArch:	noarch
