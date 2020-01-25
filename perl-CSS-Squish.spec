@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# don't perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	CSS
 %define		pnam	Squish
 Summary:	CSS::Squish - Compact many CSS files into one big file
